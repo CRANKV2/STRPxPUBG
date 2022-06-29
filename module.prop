@@ -6,3 +6,4 @@ versionCode=20
 description=Usefull Stuff For PUBG Mobile [ ALL VERSIONS ]  Termux Menu Coming Soon!!
 support=https://t.me/AndroidRootModulesCommunity
 minMagisk=20300
+updateJson=https://raw.githubusercontent.com/CRANKV2/STRPxPUBG/main/module.json
