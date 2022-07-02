@@ -11,5 +11,5 @@
 - Latest Busybox
 - Android 5.0+
 
-## Termux Command:
-su -c PUBGEXTREME #PUBG Extreme Graphic
+## Termux HUGE MENU:
+su -c PUBG 
