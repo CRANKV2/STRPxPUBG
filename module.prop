@@ -1,9 +1,9 @@
 id=STRPxPUBG
 name=𝙎𝙏𝙍𝙋 𝙭 𝙋𝙐𝘽𝙂
 author=CRANKV2
-version=v1.0
-versionCode=20
-description=Usefull Stuff For PUBG Mobile [ ALL VERSIONS ]  Termux Menu Coming Soon!!
+version=v1.1
+versionCode=21
+description=Aim Assist/Booster ▌ Bullet Register ▌ HUGE Termux Menu ▌ su -c PUBG ▌
 support=https://t.me/AndroidRootModulesCommunity
 minMagisk=20300
 updateJson=https://raw.githubusercontent.com/CRANKV2/STRPxPUBG/main/module.json
