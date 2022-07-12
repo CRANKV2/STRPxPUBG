@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://" width="500"></a></p>  
+<p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://i.imgur.com/inSzi4n.png" width="500"></a></p>  
  <h1 align="center"><b> STRP x UNLOCKER </b></h1> 
  <h4 align="center">▌Games & FPS Unlocker ▌ With New Inbuild Termux Menu! ▌ Powered By Stratosphere ▌</h4>
 
