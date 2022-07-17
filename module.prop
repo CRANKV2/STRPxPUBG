@@ -1,9 +1,9 @@
 id=STRPxPUBG
 name=𝙎𝙏𝙍𝙋 𝙭 𝙋𝙐𝘽𝙂
 author=CRANKV2
-version=v1.2
-versionCode=26
-description=▌Aim Assist ▌Booster ▌ Bullet Register ▌HUGE Termux Menu ▌su -c PUBG ▌
+version=v1.3
+versionCode=27
+description=▌Aim Assist ▌Booster ▌Bullet Register ▌HUGE Termux Menu ▌su -c PUBG ▌
 support=https://t.me/AndroidRootModulesCommunity
 minMagisk=20300
 updateJson=https://raw.githubusercontent.com/CRANKV2/STRPxPUBG/main/module.json

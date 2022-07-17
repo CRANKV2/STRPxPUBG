@@ -1,7 +1,19 @@
+# v1.3 (27)
+- Reworked Menu
+- Implemented BAG Module Script!
+- Removed Ultra Audio (will get an extra Module)
+- & Removed Ultra Audio to keep Module Size Small!
+- File shrink now from 40mb to 240kb lol
+- Fixed some stuff in Menu + Code overall!
+- REMOVE BAG MODULE IF U WANT TO FLASH THIS!!!
+- Don't fck me up if u face any problems!
+- Thats because ur using Modules What Conflicts with this!
+- Remove MAGISK HIDE PROPS MODULE TO AVOID PROBLEMS!
+--------
 ## HOTFIX (25)
 - Fixed Version Number In PUBG Termux Menu!
 - Script not Initialized Correctly Fixed Now!
-
+---------
 ## STRP x PUBG / HUGE UPDATE v1.1 (UNIVERSAL) (23)
 - Converted All Props Into Script File
 - Added NEW BAG 1.7 PROPS | Its a BEAST Now for FPS Games!
@@ -11,24 +23,24 @@
 - Even the guns and other supplements have quite differentiable sounds. 
 - Some sounds that don’t appear on the map can be heard with a good sound sense.
 - That Is What STRP ULTRA AUDIO .PAK Will Handle For You Guys!
-
+---------
 ## STRP x PUBG / HUGE UPDATE v1.1 (UNIVERSAL) (HOTFIX)
 - Added Option Turn OFF Gaming Mode in Menu!
-
+---------
 ## STRP x PUBG / HUGE UPDATE v1.1 (UNIVERSAL)
 
 ## CREATOR ▌OWNER ▌GROUP
-
+---------
 By CRANKV2
 - Telegram channel: t.me/StratospherePerformance
 - Telegram group: t.me/AndroidRootModulesCommunity
 - Join ARMC Group!
-
+---------
 ## EXTRAS
 - Added AimAssist/Boost
 - Added BulletRegister
 - Added and fixed many Tweaks to be stable AF!
-
+---------
 ## MENU FEATURES
 ## BATTERY INFO
 - Battery Charge Level:
@@ -37,10 +49,10 @@ By CRANKV2
 - Battery Status:
 - Battery Temperature:
 - System Using Since:
-
+---------
 ## ENABLE PUBG GAMING MODE!
 - Turn On PUBG Gaming MODE!
-
+---------
 ## Usefull Options
 - Enemy Spot KCAL Preset
 - Reset KCAL Preset
@@ -53,7 +65,7 @@ By CRANKV2
 - Clean Trash, -Example System logs, Game Logs and Cache etc...
 - Unlock 90FPS For PUBG, You NEED To REBOOT After Using This!
 - Start PUBG Extreme Script To Enable Extreme Graphic In PUBG!
-
+---------
 ## Change Refresh Rate Options...
 - 46 HZ Refresh Rate
 - 50 HZ Refresh Rate
@@ -61,41 +73,35 @@ By CRANKV2
 - 60 HZ Refresh Rate
 - 90 HZ Refresh Rate
 - Reset Refresh Rate config
-
+---------
 ## Free RAM Bevore playing!
 - Will Remove ALL PUBG CACHE TOO!
 - EXTREME -- GAMES CACHE CLEANER
-
+---------
 ## Gapps Settings..
 - Enable Gapps
 - Disable Gapps
-
+---------
 ## Open GL Changer!
 - Set renderer to OpenGL
 - Set renderer to Skia OpenGL
 - Set renderer to Skia Vulkan
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
+---------
 ## STRP x PUBG / Initial Release v1.0 (UNIVERSAL)
-
+---------
 - Added PUBG Extreme Graphic Script
 - Can be Executed with termux / su -c PUBGEXTREME
-
+---------
 - Added PUBG Ultra Audio .PAK
 - Gets Auto Installed While Flashing!
-
+---------
 - Added Touch Boost for Touch Improvment Exclusive for PUBG!
 - BAG Module Can Be Used With This Build!
 - GODSPEED AimBooster Can Be Used Too!
 - Added PUBG 90 FPS UNLOCK!
 - Auto Cleaning all Game Caches After Every Reboot!
 - Termux Menu with More Usefull PUBG Stuff will came in Next Update!
-
 -----------
-
 ## !IMPORTANT!
 It is necessary to Remove any Type of Game/FPS UNLOCKER or 90FPS Unlocker wont work! it's up to u!
-
 -----------
